@@ -10,6 +10,31 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "ai",
+    "context",
+    "copy",
+    "markdown",
+    "clipboard",
+    "code",
+    "chatgpt",
+    "claude",
+    "copilot",
+    "assistant"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ragokan/vscode-ai-context-provider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ragokan/vscode-ai-context-provider/issues"
+  },
+  "homepage": "https://github.com/ragokan/vscode-ai-context-provider#readme",
+  "author": {
+    "name": "ragokan"
+  },
+  "license": "MIT",
+  "publisher": "ragokan",
   "activationEvents": [
     "onCommand:vscode-ai-context-provider.copyWithContext"
   ],
