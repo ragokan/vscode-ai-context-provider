@@ -2,10 +2,10 @@
   "name": "vscode-ai-context-provider",
   "displayName": "VSCode AI Context Provider",
   "description": "Copy code with AI-friendly context, including file paths and line numbers. Perfect for sharing code snippets with AI assistants.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": "^1.99.0"
   },
   "categories": [
     "Other"
@@ -66,7 +66,7 @@
         {
           "command": "vscode-ai-context-provider.copyWithContext",
           "when": "editorHasSelection",
-          "group": "navigation@5"
+          "group": "navigation@1"
         }
       ]
     }
